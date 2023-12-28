@@ -1,2 +1,3 @@
-# WEB-DEVLOPMENT-JOURNEY
+# WEB-DEVLOPMENT
 Config files for my GitHub profile.
+
